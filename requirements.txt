@@ -1,0 +1,11 @@
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+setuptools
+langchain_core
+pandas
+langchain_community
+importlib_resources
+-e .
