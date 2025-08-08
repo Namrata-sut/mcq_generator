@@ -134,7 +134,7 @@ def get_table_data(quiz_input):
     quiz_df = pd.DataFrame(quiz_table_data)
 
     # Save to Excel
-    # excel_filename = r"D:\Learning\generative ai ineuron\MCQ Generator\data\_mcq1.xlsx"
+    # excel_filename = r"D:\Learning\generative ai\MCQ Generator\data\_mcq1.xlsx"
     # quiz_df.to_excel(excel_filename, index=False)
     # print(f"\n Quiz saved to {excel_filename}")
     return quiz_df
