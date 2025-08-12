@@ -8,4 +8,5 @@ langchain_core
 pandas
 langchain_community
 importlib_resources
+langchain-google-genai
 -e .

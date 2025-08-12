@@ -15,7 +15,8 @@ setup(
         "langchain_core",
         "pandas",
         "langchain_community",
-        "importlib_resources"
+        "importlib_resources",
+        "langchain-google-genai"
     ],
     packages=find_packages(),
 )
